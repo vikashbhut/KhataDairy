@@ -1,0 +1,53 @@
+{
+  "Login": {
+    "title": "Login",
+    "E-mail": "E-mail",
+    "Password": "Password",
+    "ValidEmail": "Please enter a valid email address",
+    "ValidPassword": "Password must contain minimum 8 character",
+    "ForgotPassword": "Forgot Password?",
+    "SwitchToLogin": "Switch To Login",
+    "SwitchToSignup": "Switch To SignUp",
+    "SignUp": "Sign Up",
+    "SignupSuccess": "Signup successfully !!",
+    "EmailNotFound": "email not found !!",
+    "PassInvaild": "password is invalid !!",
+    "EmailInUse": "email address is already in use by another account!!",
+    "PassResetEmail": "We have sent you instructions to reset your password to your registered email!",
+    "PassResetEmailFail": "Failed to send reset email !"
+  },
+  "Home": {
+    "home": "હોમ"
+  },
+  "More": {
+    "more": "વધુ"
+  },
+  "youwillget": "You will get",
+  "youwillpay": "You will pay",
+  "willpay": "You'll Give",
+  "willget": "You'll Get",
+  "Addnewcustomer": "Add new customer.",
+  "entershopname": "Enter Shop/Business Name",
+  "submit": "Submit",
+  "addkhatabook": "ADD KHATABOOK",
+  "deletekhata": "Are you sure to delete this khata",
+  "delete": "Delete",
+  "yes": "Yes",
+  "no": "No",
+  "custname": "Customer name",
+  "save": "Save",
+  "cust": "customers",
+  "addnewentry": "Add new entries",
+  "gave": "You gave",
+  "got": "You got",
+  "deletecust": "Do you really want to delete this customer?",
+  "enteramount": "Enter amount",
+  "enterdetails": "Enter Details(Item Name,Bill No,Quantity..)",
+  "addbill": "Add Bill",
+  "Details": "Details",
+  "photoattac": "Photo Attachment",
+  "currbal": "Running Balance",
+  "editentry": "Edit Entry",
+  "deleteentry": "Delete Entry",
+  "deleteEntry": "Do you really want to delete this entry?"
+}
